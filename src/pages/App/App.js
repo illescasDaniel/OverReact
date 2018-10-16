@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { BrowserRouter as Router } from 'react-router-dom'
-import AppRoutes from '../../config/appRoutes';
+import AppRoutes from '../../config/appRoutes' /* use <Link> to go between routes */
 import styles from './App.sass'
 // CSS MODULES: import styles from './App.sass' ... <p className={styles.blabla}> ... </p>
 // BOOTSTRAP: import { Button } from 'reactstrap'
