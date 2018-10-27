@@ -9,6 +9,10 @@ export default class Home extends Component {
     console.log(event.target.innerText)
   }
 
+  componentDidMount() {
+
+  }
+
   render() {
     return (
       <div>
