@@ -18,7 +18,7 @@ export default class Home extends Component {
       <div>
         <h1>hello!</h1>
         <Button onClick={this._onForm1ButtonClick}>
-          <FontAwesomeIcon icon={faCoffee} /> Form 1 button
+          <FontAwesomeIcon icon={faCoffee} /> Form 1 button - updated
         </Button>
 
       </div>
